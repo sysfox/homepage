@@ -2,26 +2,26 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.trfox.top"
+    "link": "/"
   },
   {
     "icon": "Book",
     "name": "遗迹",
-    "link": "https://legacy.trfox.top"
+    "link": "/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.trfox.top"
+    "link": "/p"
   },
   {
     "icon": "PhotoVideo",
     "name": "Plog",
-    "link": "https://plog.trfox.top"
+    "link": "/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.trfox.top"
+    "link": "/"
   }
 ]
